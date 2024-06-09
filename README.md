@@ -1,6 +1,4 @@
-# Sports-Prediction-Sentiment-Analysis
-
-# Sports Prediction Based on Online Sentiment
+# Sports Event Prediction Based on Online Sentiment
 
 ## Project Overview
 I analyzed online sentiment from Reddit and ESPN to predict the outcomes of Major League Baseball (MLB) games. I leveraged web scraping, natural language processing (NLP), and machine learning to assess public opinion and make more informed sports betting decisions.
